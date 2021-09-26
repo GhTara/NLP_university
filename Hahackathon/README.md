@@ -1,1 +1,1 @@
-hahackathon: Detecting and Rating Humor and Offense
+# hahackathon: Detecting and Rating Humor and Offense
